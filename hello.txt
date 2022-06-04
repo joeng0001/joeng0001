@@ -1,7 +1,4 @@
 hh
 hh again
-<<<<<<< HEAD
 again and again
-=======
-again
->>>>>>> 587220f5e18706f475e3719813c9aacbead6859a
+this is for reset commit
